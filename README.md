@@ -1,7 +1,7 @@
 # Siefert2024
 
 README for Siefert2024 behavioral data and code. Corresponds to Siefert et al. (2024): https://doi.org/10.1523/JNEUROSCI.0022-24.2024
-Contact Liz Siefert (sieferte@pennmedicine.upenn.edu) if you have further questions.
+Contact Liz Siefert (sieferte@pennmedicine.upenn.edu) if you have any questions.
 
 **```Siefert2024_Analysis.R``` generates all figures and analyses.** Uses the following csv data files: ```Siefert2024_behavdata.csv```, ```learning_data.csv```, ```cluster_array.csv```, ```sleep_information.csv```, ```cueing_stages.csv```. See below for descriptions of each data file.
 
